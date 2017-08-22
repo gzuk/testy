@@ -7,5 +7,6 @@ public class Main {
             o.getWiek();
             System.out.println("A teraz jest zmiana");
             System.out.println("Tu jest druga zmiana");
+            System.out.println("A to jest do nowego taska");
     }
 }
